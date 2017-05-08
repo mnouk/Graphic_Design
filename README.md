@@ -7,6 +7,12 @@ Poster: Mistaken Identity,
 Techniques: ID cards + javascript + Illustrator
 Co-Contributor: Loris Leiva ANGEL
 
+![mistaken_identity](https://cloud.githubusercontent.com/assets/22515829/25786823/47cf34e8-339b-11e7-9d4e-6f2fef4b24bf.jpg)
+
+Poster: Mistaken Identity, 
+Techniques: ID cards + javascript + Illustrator
+Co-Contributor: Loris Leiva ANGEL
+
 ![margaret_thatcher_obituary](https://cloud.githubusercontent.com/assets/22515829/25783459/dedaad0c-335c-11e7-8303-5ab0ae3617e9.jpg)
 Poster: Maggie Thatcher Obituary, 
 Techniques: Wordcloud python + news articles 
