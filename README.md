@@ -16,3 +16,7 @@ Poster: Life on MARS,
 Techniques: Illustrator + paint spalshes
 Co-Contributors: Loris Leiva ANGEL, Linda ADEMI
 
+![booklet](https://cloud.githubusercontent.com/assets/22515829/25786720/f23468b0-3399-11e7-80bd-084445ba3cc7.jpg)
+Booklet: Life on MARS
+Techniques: Illustrator + paint spalshes
+Co-Contributors: Loris Leiva ANGEL, Linda ADEMI
